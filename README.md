@@ -1,4 +1,3 @@
-# bug-free
 
 ## Project setup
 ```
